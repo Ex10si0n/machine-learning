@@ -45,6 +45,6 @@ No slides are distributed (cuz. I do not regard slides as efficient format to di
 	* Introduction to Tensorflow / PyTorch
 	* CNN: NN with image processing
 	* Introduction to Data Augmentation
-	* Breif introduction to miscellaneous Neural Networks
+	* Brief introduction to miscellaneous Neural Networks
 
 
