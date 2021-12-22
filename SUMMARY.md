@@ -17,11 +17,11 @@
 * [pip: Package manager](chapter2/pip-package-manager.md)
 * [Data Science Utilities](chapter2/data-science-utilities.md)
 
-## Concept of Machine Learning
+## Chapter3
 
-* [Problems that needs machine learning](concept-of-machine-learning/problems-that-needs-machine-learning.md)
-* [Implementation of Neural Networks from scratch](concept-of-machine-learning/implementation-of-neural-networks-from-scratch.md)
-* [Introduction to Tensorflow / PyTorch](concept-of-machine-learning/introduction-to-tensorflow-pytorch.md)
-* [CNN: NN with image processing](concept-of-machine-learning/cnn-nn-with-image-processing.md)
-* [Introduction to Data Augmentation](concept-of-machine-learning/introduction-to-data-augmentation.md)
-* [Brief introduction to miscellaneous Neural Networks](concept-of-machine-learning/brief-introduction-to-miscellaneous-neural-networks.md)
+* [Problems that needs machine learning](chapter3/problems-that-needs-machine-learning.md)
+* [Implementation of Neural Networks from scratch](chapter3/implementation-of-neural-networks-from-scratch.md)
+* [Introduction to Tensorflow / PyTorch](chapter3/introduction-to-tensorflow-pytorch.md)
+* [CNN: NN with image processing](chapter3/cnn-nn-with-image-processing.md)
+* [Introduction to Data Augmentation](chapter3/introduction-to-data-augmentation.md)
+* [Brief introduction to miscellaneous Neural Networks](chapter3/brief-introduction-to-miscellaneous-neural-networks.md)
