@@ -35,10 +35,10 @@ There are many approaches to let us manipulate on Linux:
 >    2. Find a free Linux server
 >    3. Hack into someone’s computers (not recommended)
 > 2. Use your own computer&#x20;
->    1. You are just using Linux or Unix(macOS)
+>    1. You are just using Linux or Unix(macOS) 👍
 >    2. Local installation of a Linux distro
 >    3. Virtual Machines (Visualization)
->    4. Docker, WSL (Containerization)
+>    4. Docker, WSL (Containerization) 👍
 
 Useful Links:
 
