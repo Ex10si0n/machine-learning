@@ -25,3 +25,35 @@ Similar to macOS or Windows, there also be many of the OS(Ubuntu, CentOS, Androi
 Back to our topic, due to these Linux distros are based on Linux, although there are a little bit different between these distros, the basic file structures are almost the same. Moreover, Linux has been increasingly deployed in more and more servers rather than Windows server nowadays, it is worth-learning.
 
 In the first Chapter, I arranged a few goals that you will achieve while learning using Linux. So let’s get started to make your hands dirty!
+
+### Installation of Linux
+
+There are many approaches to let us manipulate on Linux:
+
+> 1. Use other’s computer (Cloud Computing)
+>    1. Cloud Computing Platforms
+>    2. Find a free Linux server
+>    3. Hack into someone’s computers (not recommended)
+> 2. Use your own computer&#x20;
+>    1. You are just using Linux or Unix(macOS)
+>    2. Local installation of a Linux distro
+>    3. Virtual Machines (Visualization)
+>    4. Docker, WSL (Containerization)
+
+Useful Links:
+
+{% embed url="https://www.shiyanlou.com" %}
+1.2 A free Linux server
+{% endembed %}
+
+{% embed url="https://ubuntu.com" %}
+2.2 Local installation of Ubuntu
+{% endembed %}
+
+{% embed url="https://www.vmware.com/products/workstation-player.html" %}
+2.3 VMWare Player
+{% endembed %}
+
+{% embed url="https://www.docker.com/get-started" %}
+2.4 Docker Desktop
+{% endembed %}
