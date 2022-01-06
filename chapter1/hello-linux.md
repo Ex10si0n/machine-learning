@@ -57,3 +57,7 @@ Useful Links:
 {% embed url="https://www.docker.com/get-started" %}
 2.4 Docker Desktop
 {% endembed %}
+
+{% embed url="https://ubuntu.com/wsl" %}
+2.4 WSL Ubuntu
+{% endembed %}
