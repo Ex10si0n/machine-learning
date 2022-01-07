@@ -4,10 +4,6 @@ Linux is a family **of free and open-source operating systems based** on the Lin
 
 Here is the Family tree of all computer Operating Systems, in comparison to macOS and Windows with Linux, we can refer to the classification by the OS family tree.
 
-{% embed url="<https://eylenburg.github.io/os_familytree.htm>" %}
-OS Family Tree
-{% endembed %}
-
 In short, by traversal the tree, we will get the path of some of the famous OS:
 
 ```bash
@@ -20,52 +16,30 @@ CentOS: Linux -> Red Hat -> CentOS
 Android: Linux -> Android
 ```
 
-Similar to macOS or Windows, there also be many of the OS(Ubuntu, CentOS, Android) run on computers (boarder speaking, term computers including mobile phone, PC, server and embedded). So, Linux is a bunch of OS. In the hierarchical structure, Linux is at the same level as Unix while Ubuntu, CentOS (refer as Linux distro) is at the same level as macOS and Windows.
+Similar to macOS or Windows, there also be many of the OS(Ubuntu, CentOS, Android) run on computers (broader speaking, term computers including mobile phone, PC, server and embedded). So, Linux is a bunch of OS. In the hierarchical structure, Linux is at the same level as Unix while Ubuntu, CentOS (refer as Linux distro) is at the same level as macOS and Windows.
 
 Back to our topic, these Linux distros are based on Linux, although there are a few bit differences between these distros, the basic file structures are almost the same. Moreover, Linux has been increasingly deployed on more and more servers rather than Windows servers nowadays, it is worth learning.
 
-In the first Chapter, I arranged a few goals that you will achieve while learning using Linux. So let’s get started to make your hands dirty!
+In the first Chapter, I arranged a few <mark style="color:green;">**goals**</mark> that you will achieve while learning using Linux. So let’s get started to make your hands dirty!
 
 ### Installation of Linux
 
 There are many approaches to let us manipulate on Linux:
 
-> 1.  Use other’s computer (Cloud Computing)
->
->     1.  Cloud Computing Platforms
->
->     2.  Find a free Linux server
->
->     3.  Hack into someone’s computers (not recommended)
->
-> 2.  Use your own computer&#x20;
->
->     1.  You are just using Linux or Unix(macOS) 👍
->
->     2.  Local installation of a Linux distro
->
->     3.  Virtual Machines (Visualization)
->
->     4.  Docker, WSL (Containerization) 👍
+> 1. Use other’s computer (Cloud Computing)
+>    1. Cloud Computing Platforms
+>    2. Find a free Linux server
+>    3. Hack into someone’s computers (not recommended)
+> 2. Use your own computer
+>    1. You are just using Linux or Unix(macOS) 👍
+>    2. Local installation of a Linux distro
+>    3. Virtual Machines (Visualization)
+>    4. Docker, WSL (Containerization) 👍
 
 Useful Links:
 
-{% embed url="<https://www.shiyanlou.com>" %}
-1.2 A free Linux server
-{% endembed %}
+* Set up WSL in Windows: [https://ubuntu.com/wsl](https://ubuntu.com/wsl)
+* Download Docker Desktop: [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+* Online Linux OS for free: [https://www.lanqiao.cn/courses/1](https://www.lanqiao.cn/courses/1)
 
-{% embed url="<https://ubuntu.com>" %}
-2.2 Local installation of Ubuntu
-{% endembed %}
-
-{% embed url="<https://www.vmware.com/products/workstation-player.html>" %}
-2.3 VMWare Player
-{% endembed %}
-
-{% embed url="<https://www.docker.com/get-started>" %}
-2.4 Docker Desktop
-{% endembed %}
-
-{% embed url="<https://ubuntu.com/wsl>" %}
-2.4 WSL Ubuntu
-{% endembed %}
+> 👍 Goal: let Linux runs on your computer.
