@@ -68,7 +68,7 @@ Last login: WW MM  hh:mm:ss YYYY from XXX.XXX.XXX.XXX
 Welcome to fish, the friendly interactive shell
 Type `help` for instructions on how to use fish
 
-ubuntu on VM-12-13-ubuntu at home via pythonv3.9.7
+ubuntu on VM-12-13-ubuntu at ~ via pythonv3.9.7
 ->
 ```
 
@@ -110,21 +110,69 @@ Now let us create your own folders with your name **(change** `steve-yan` **to y
 And go inside your folder
 
 ```bash
-ubuntu on VM-12-13-ubuntu at home
+ubuntu on VM-12-13-ubuntu at ~
 -> cd steve-yan
 ```
 
 Then you are at
 
 ```bash
-ubuntu on VM-12-13-ubuntu at home/steve-yan
+ubuntu on VM-12-13-ubuntu at ~/steve-yan
 -> pwd
 /home/ubuntu/steve-yan
 ```
 
-Actually, we can see it before the `->` prompt `at home/steve-yan` , `home` refers to the `ubuntu` directory. You can think of it as Windows' `C:\Users\Ex10si0n` or macOS's `/Users/ex10si0n` .
+Actually, we can see it before the `->` prompt `at home/steve-yan` , `~` refers to the `ubuntu` directory. You can think of it as Windows' `C:\Users\Ex10si0n` or macOS's `/Users/ex10si0n` .
+
+> 👍 Goal: make your own folder at `/home/ubuntu/`
 
 #### Linux File Structure
 
 ![Linux file system](<../.gitbook/assets/linux-file-system-hierarchy-1 (1).png>)
+
+{% embed url="https://www.youtube.com/watch?t=178s&v=HbgzrKJvDRw" %}
+
+#### Absolute path vs. Relative path
+
+#### In Linux
+
+In Linux, an absolute path is defined as the location of a file or directory relative to the root directory and is designated by a forward slash ( / ). The root directory refers to the top directory that comprises the filesystem containing a series of sub-directories which leads to further sub-directories. On the contrary, a relative path refers to the location of a file or directory relative to the current working directory rather than the root directory. For example,
+
+```
+/export/home/ftp/pub
+export/home/ftp/pub
+```
+
+In the first example, the path starts from the / directory which is the root directory which makes it an absolute pathname. We removed the forward slash / in the second example which makes it a relative pathname meaning it relates to the current working directory instead of the root directory.
+
+#### Multi-users Operating System
+
+Try to type
+
+```bash
+-> cd
+```
+
+This will send you to the home directory `/home/ubuntu/` , now typing `ls` to show the file under this directory. What you will find?
+
+```bash
+-> ls
+steve-yan/ student_names/
+```
+
+That is because a Linux computer can serve many users at the same time. In fact, this scenario is not appropriate. That is, you are all acting as the user `ubuntu` now, for ease of use, I do not let you create your own user in my Server, but it is available in Linux, many users can manipulate the computer at the same time.
+
+#### Exercise.
+
+> 👍 Goal: Try to use these commands and tell the usage
+>
+> ```
+> -> cd ..
+> -> cd ~
+> -> tree ~
+> -> curl cip.cc
+> -> curl wttr.in
+> -> screenfetch
+> -> htop
+> ```
 
