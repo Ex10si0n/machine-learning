@@ -20,3 +20,7 @@
 
 ![Commands](../.gitbook/assets/vi-vim-tutorial-7.svg)
 
+{% embed url="http://www.viemu.com/vi-vim-tutorial-svg.zip" %}
+Download All
+{% endembed %}
+
