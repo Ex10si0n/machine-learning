@@ -97,6 +97,10 @@ One of the easiest ways to learn Vim is by reading the official documentation. T
 
 Try to play it around, try to switch your code (text) editor to Vim in the next few weeks.
 
+> 👍 Goal: Finish `vimtutor` Lesson 1-4
+>
+> This part will be demostrated on the class.
+
 #### Vim Cheat Sheets
 
 ![Basic Editing](../.gitbook/assets/vi-vim-tutorial-1.svg)
