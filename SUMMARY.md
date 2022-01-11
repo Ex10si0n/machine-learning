@@ -10,7 +10,7 @@
 
 ## Chapter2
 
-* [conda: the Python version manager](chapter2/conda-the-python-version-manager.md)
+* [conda: the Python environment manager](chapter2/conda-the-python-version-manager.md)
 * [Transfer to Python](chapter2/transfer-to-python.md)
 * [File structure](chapter2/file-structure.md)
 * [Importing modules](chapter2/importing-modules.md)

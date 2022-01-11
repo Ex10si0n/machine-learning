@@ -35,7 +35,7 @@ No slides are distributed (cuz. I do not regard slides as efficient format to di
   * Command Line
   * Vim
 * The Python language
-  * conda: the Python version manager
+  * conda: the Python environment manager
   * Transfer to Python
   * File structure
   * Importing modules
