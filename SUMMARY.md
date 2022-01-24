@@ -12,6 +12,7 @@
 
 * [conda: the Python environment manager](chapter2/conda-the-python-version-manager.md)
 * [Transfer to Python](chapter2/transfer-to-python.md)
+* [Page 1](chapter2/page-1.md)
 * [Importing modules](chapter2/importing-modules.md)
 * [pip: Package manager](chapter2/pip-package-manager.md)
 * [Data Science Utilities](chapter2/data-science-utilities.md)
