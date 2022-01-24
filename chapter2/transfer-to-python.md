@@ -145,3 +145,100 @@ for key in dict:
     print(key, dict[key])
 ```
 
+`if` and `else` are very similar to that in Java:
+
+```python
+num = 10
+if num >= 10:
+    print("num >= 10")
+else:
+    print("num < 10")
+```
+
+```java
+int num = 10;
+if (num >= 10) {
+    System.out.println("num >= 10");
+} else {
+    System.out.println("num < 10");
+}
+```
+
+And Python can make checking easier:
+
+```python
+primes = [2, 3, 5, 7, 11, 13, 17, 19]
+if 10 in primes:
+    print("10 is prime")
+else:
+    print("10 is composite")
+```
+
+### Functions
+
+Defining a function in Python is also similar to that in Java.
+
+```python
+def say_hello():
+    print("Hello")
+```
+
+```java
+public static void sayHello() {
+    System.out.println("Hello");
+}
+```
+
+Adding return value. And  `if __name__ == '__main__':` means the main method.
+
+```python
+import math
+
+def quadratic(a, b, c):
+    delta = b * b - 4 * a * c
+    if delta >=0:
+        root_A = ( -b - math.sqrt(delta) ) / 2 * a
+        root_B = ( -b + math.sqrt(delta) ) / 2 * a
+        return root_A, root_B
+    else:
+        return None
+
+if __name__ == '__main__':
+    roots = quadratic(2, 3, 1)
+    print(roots)
+```
+
+### Try an Example
+
+> 👍 Goal: Rewrite this Java code into Python code(script)
+
+```java
+class HelloWorld {
+    static boolean isPrime(int num) {
+        if (num == 0) return false;
+        if (num == 1) return false;
+        boolean flag = true;
+        for (int i = 2; i <= num / 2; i++) {
+          if (num % i == 0) {
+            flag = false;
+            break;
+          }
+        }
+        return flag;
+    }
+    
+    public static void main(String[] args) {
+        for (int i = 0; i < 100; i++) {
+            if (isPrime(i)) System.out.println(i);
+        }
+    }
+}
+```
+
+> Note that:&#x20;
+>
+> * **Boolean** value in Python is `True` or `False`
+
+### Activity: Clash of Code
+
+{% embed url="https://www.codingame.com/multiplayer" %}
