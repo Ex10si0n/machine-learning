@@ -23,7 +23,7 @@ Right-click Start Button, open `Windows Terminal` or `Windows Powershell` or `CM
 Since you have already opened your Terminal Software, try to type `ssh` in the interactive line. And you will get something like this.
 
 ```bash
-$ ssh
+ssh
 usage: ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface]
            [-b bind_address] [-c cipher_spec] [-D [bind_address:]port]
            [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]
@@ -77,7 +77,7 @@ This is the welcome message by Ubuntu. And now, you are manipulating my Server r
 Now let's try to type some commands. What you type is after the -> Symbol. So in the following example, the command is only `ls` and what you can see from the shell after you type `ls` is `hello.txt` which is the output of the shell.
 
 ```bash
-->  ls
+-> ls
 hello.txt
 ```
 
@@ -167,12 +167,12 @@ That is because a Linux computer can serve many users at the same time. In fact,
 > 👍 Goal: Try to use these commands and tell the usage
 >
 > ```
-> -> cd ..
-> -> cd ~
-> -> tree ~
-> -> curl cip.cc
-> -> curl wttr.in
-> -> screenfetch
-> -> htop
+> cd ..
+> cd ~
+> tree ~
+> curl cip.cc
+> curl wttr.in
+> screenfetch
+> htop
 > ```
 
