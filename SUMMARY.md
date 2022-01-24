@@ -18,7 +18,6 @@
 
 ## Chapter3
 
-* [Problems that needs machine learning](chapter3/problems-that-needs-machine-learning.md)
 * [Implementation of Neural Networks from scratch](chapter3/implementation-of-neural-networks-from-scratch.md)
 * [Introduction to Tensorflow / PyTorch](chapter3/introduction-to-tensorflow-pytorch.md)
 * [CNN: NN with image processing](chapter3/cnn-nn-with-image-processing.md)
