@@ -1,6 +1,6 @@
 # Command Line
 
-Let have the first try on using Linux. Although Linux has a GUI(Graphical User Interface) as Windows and macOS, the server always disable it due to the heavy resource load by GUI. So you have to ensure yourself familiar with the Command Line Operation.
+Let us have the first try on using Linux. Although Linux has a GUI(Graphical User Interface) as Windows and macOS, the server always disable it due to the heavy resource load by GUI. So you have to ensure yourself familiar with the Command Line Operation.
 
 > Tips: Although you can use my Linux Server now, I strongly advise you try to install it in your own  Laptop. Since you can enjoy the configuration of your own Computer System.
 
