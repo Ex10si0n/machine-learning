@@ -26,7 +26,7 @@ Kaggle: [kaggle](https://kaggle.com) ![](https://img.shields.io/badge/Web-Kaggle
 
 This lecture contains two parts, namely Python fundamental and Machine Learning. Moreover, all of the process will be running on the Linux machine, which means that it will contain the part of knowledge in Linux shell.
 
-No slides are distributed (cuz. I do not regard slides as efficient format to display  codes) but all of the codes and explanations are showed on this Repository as well as the official website [ml.aspires.cc](https://ml.aspires.cc) of this lecture.
+No slides are distributed (cuz. I do not regard slides as efficient format to display  codes) but all of the codes and explanations are showed on this Repository as well as the official website [pyml.aspires.cc](https://app.gitbook.com/s/HAdGlEt8QdrT03dbqZCM/) of this lecture.
 
 **Following topics will be covered in the Interest Group**
 
