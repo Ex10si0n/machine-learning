@@ -1,5 +1,7 @@
 # Implementation of Neural Networks from scratch
 
+TensorFlow Playground: [click here](https://playground.tensorflow.org/#activation=tanh\&batchSize=30\&dataset=xor\&regDataset=reg-plane\&learningRate=0.03\&regularizationRate=0\&noise=40\&networkShape=4,2\&seed=0.05981\&showTestData=false\&discretize=false\&percTrainData=60\&x=true\&y=true\&xTimesY=false\&xSquared=false\&ySquared=false\&cosX=false\&sinX=false\&cosY=false\&sinY=false\&collectStats=false\&problem=classification\&initZero=false\&hideText=false)
+
 In the past 10 years, the best-performing artificial-intelligence systems — such as the speech recognizers on smartphones or Google’s latest automatic translator — have resulted from a technique called “Deep Learning.”
 
 Deep learning is in fact a new name for an approach to artificial intelligence called neural networks, which have been going in and out of fashion for more than 70 years. **Neural networks** were first proposed in 1944 by Warren McCullough and Walter Pitts.
