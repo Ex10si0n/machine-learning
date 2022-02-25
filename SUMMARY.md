@@ -15,7 +15,7 @@
 * [Object Oriented](chapter2/object-oriented.md)
 * [Importing modules](chapter2/importing-modules.md)
 * [pip: Package manager](chapter2/pip-package-manager.md)
-* [Data Science Utilities](chapter2/data-science-utilities.md)
+* [DS Utilities: Numpy](chapter2/data-science-utilities.md)
 
 ## Chapter3
 
