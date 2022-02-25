@@ -231,7 +231,7 @@ make it easier to use:
 
 Before we start the training process, let's have a quick review on **Linear Regression**:
 
-![Linear Regression](linear-regression.png)
+![Linear Regression](./assets/linear-regression.png)
 
 Consider a plot of scatter points `(x_i, y_i)`which repectively represents `(rental price, house area)`. As common sense, the **x** and **y** has a positive correlation. We can plug in each **x_i** and **y_i** into the formula of **Least Squares Method**:
 
@@ -245,7 +245,7 @@ Where `m` called **correlation coefficient** and the equation of the regression 
 
 For linear regression, we can get the equation easily. But for **Multiple Linear Regression** with many parameter **x**'s, it will become complex.
 
-![Multiple Linear Regression](EstimateMultipleLinearRegressionCoefficientsExample_01.png)
+![Multiple Linear Regression](./assets/EstimateMultipleLinearRegressionCoefficientsExample_01.png)
 
 And we know that, to predict the **house rental price**, we cannot consider only one factor which is house area. We should also take **Location**, **Number of Bedrooms**, **Appliances and Other Amenities**, **Curb Appeal and Condition** and even if the house is **Allowing Pets**. Then the regression process will be further more complex. So we should determine another method to optimize the calculating time. 
 
@@ -283,7 +283,7 @@ To get the optimized regression effect. We should determine the **lowest z** on 
 
 Unfortunately, in practice, like playing a open-world game. It always has fog covering the unvisited area. We only have the information of starting up point, and we need to try each direction to explore. 
 
-![Unvisited](Civ-6-new-city.jpg)
+![Unvisited](./assets/Civ-6-new-city.jpg)
 
 But, at least, we may know where to go like: **try not going to the desert at first.**
 
@@ -301,7 +301,7 @@ We now have a clear goal: **minimize the loss** of the neural network. We know w
 
 To think about loss is as a function of weights and biases. Let’s label each weight and bias in our network:
 
-![](Network3.svg)
+![](./assets/Network3.svg)
 
 Then the loss of the whole Network are determined by weight and bias in each Neurons:
 
