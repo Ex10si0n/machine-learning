@@ -42,7 +42,6 @@ No slides are distributed (cuz. I do not regard slides as efficient format to di
   * pip: Package manager
   * DS Utilities
 * Concept of Machine Learning
-  * Problems that needs machine learning
   * Implementation of Neural Networks from scratch
   * Introduction to Tensorflow / PyTorch
   * CNN: NN with image processing
