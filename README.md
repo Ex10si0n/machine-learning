@@ -40,7 +40,7 @@ No slides are distributed (cuz. I do not regard slides as efficient format to di
   * File structure
   * Importing modules
   * pip: Package manager
-  * DS Utilities
+  * DS Utilities: Numpy
 * Concept of Machine Learning
   * Implementation of Neural Networks from scratch
   * Introduction to Tensorflow / PyTorch
