@@ -1,6 +1,6 @@
 # Lab Assignment
 
-**Download pdf and code here**: [https://github.com/Ex10si0n/Python-ML/archive/refs/tags/1.0.zip](https://github.com/Ex10si0n/Python-ML/archive/refs/tags/1.0.zip)
+**Download pdf and code here**: [https://github.com/Ex10si0n/Python-ML/blob/main/pyml\_lab.zip?raw=true](../pyml\_lab.zip)
 
 ### Introduction
 
