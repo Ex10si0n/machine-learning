@@ -16,6 +16,7 @@
 * [Importing modules](chapter2/importing-modules.md)
 * [pip: Package manager](chapter2/pip-package-manager.md)
 * [DS Utilities: Numpy](chapter2/data-science-utilities.md)
+* [Lab Assignment](chapter2/lab-assignment.md)
 
 ## Chapter3
 
