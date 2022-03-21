@@ -1,4 +1,4 @@
-# Lab Assignment
+# Gradient Descent
 
 **Download pdf and code here**: [https://github.com/Ex10si0n/Python-ML/blob/main/pyml\_lab.zip?raw=true](../pyml\_lab.zip)
 
@@ -127,7 +127,7 @@ if __name__ == '__main__':
 This lab assignment is designed for let you get familiar with Gradient Descent. Once you correctly implemented the three `_____________`'s, I promise you will get same Regression Line as mine. If you do not get the Regression Line as mine, it is also fine to submit. You are welcomed to ask me for more tips.
 
 ```
-Regression Line: y = 2.310601 * x + 0.599747
+Regression Line: y = 2.309133 * x + 0.610665
 ```
 
 ### Submission
