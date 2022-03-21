@@ -128,7 +128,7 @@ Actually, we can see it before the `->` prompt `at home/steve-yan` , `~` refers 
 
 #### Linux File Structure
 
-![Linux file system](<../.gitbook/assets/linux-file-system-hierarchy-1 (1).png>)
+![Linux file system](../.gitbook/assets/linux-file-system-hierarchy-1.png)
 
 {% embed url="https://www.youtube.com/watch?t=178s&v=HbgzrKJvDRw" %}
 

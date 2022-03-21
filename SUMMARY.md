@@ -16,11 +16,11 @@
 * [Importing modules](chapter2/importing-modules.md)
 * [pip: Package manager](chapter2/pip-package-manager.md)
 * [DS Utilities: Numpy](chapter2/data-science-utilities.md)
-* [Lab Assignment](chapter2/lab-assignment.md)
 
 ## Chapter3
 
 * [Implementation of Neural Networks from scratch](chapter3/Neural-Networks.md)
+* [Gradient Descent](chapter3/lab-assignment.md)
 * [Introduction to Tensorflow](chapter3/introduction-to-tensorflow-pytorch.md)
 * [CNN: NN with image processing](chapter3/cnn-nn-with-image-processing.md)
 * [Introduction to Data Augmentation](chapter3/introduction-to-data-augmentation.md)

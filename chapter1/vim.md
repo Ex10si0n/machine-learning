@@ -63,7 +63,7 @@ This command will lead you to use Vim to create a file named `helloworld.py` and
 
 Now press `i` in the keyboard. Then you will find there is something like that in the bottom-left corner of the window. This means you are in **`INSERT` mode**, which means you can insert (type) anything in the buffer (file). Which looks like that. (You may not find the red bar but it is Okay when you notice that some text like `-- INSERT --` )
 
-![](<../.gitbook/assets/Screenshot 2022-01-08 at 20.42.55 (1).png>)
+![](<../.gitbook/assets/Screenshot 2022-01-08 at 20.42.55.png>)
 
 Then type a simple hello-world snippet in the file you are editing, if you are not familiar with Python, please refer to the following code.
 
@@ -107,15 +107,15 @@ Try to play it around, try to switch your code (text) editor to Vim in the next 
 
 ![Operations & Repeatitions](../.gitbook/assets/vi-vim-tutorial-2.svg)
 
-![Yank(Copy) & Paste](<../.gitbook/assets/vi-vim-tutorial-3 (1).svg>)
+![Yank(Copy) & Paste](../.gitbook/assets/vi-vim-tutorial-3.svg)
 
-![Searching](../.gitbook/assets/vi-vim-tutorial-4.svg)
+![Searching](<../.gitbook/assets/vi-vim-tutorial-4 (1).svg>)
 
-![Marks & Macros](../.gitbook/assets/vi-vim-tutorial-5.svg)
+![Marks & Macros](<../.gitbook/assets/vi-vim-tutorial-5 (1).svg>)
 
-![Misc](<../.gitbook/assets/vi-vim-tutorial-6 (1).svg>)
+![Misc](../.gitbook/assets/vi-vim-tutorial-6.svg)
 
-![Commands](../.gitbook/assets/vi-vim-tutorial-7.svg)
+![Commands](<../.gitbook/assets/vi-vim-tutorial-7 (1).svg>)
 
 {% embed url="http://www.viemu.com/vi-vim-tutorial-svg.zip" %}
 Download All
