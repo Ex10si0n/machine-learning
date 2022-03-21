@@ -21,7 +21,7 @@
 ## Chapter3
 
 * [Implementation of Neural Networks from scratch](chapter3/Neural-Networks.md)
-* [Introduction to Tensorflow / PyTorch](chapter3/introduction-to-tensorflow-pytorch.md)
+* [Introduction to Tensorflow](chapter3/introduction-to-tensorflow-pytorch.md)
 * [CNN: NN with image processing](chapter3/cnn-nn-with-image-processing.md)
 * [Introduction to Data Augmentation](chapter3/introduction-to-data-augmentation.md)
 * [Brief introduction to miscellaneous Neural Networks](chapter3/brief-introduction-to-miscellaneous-neural-networks.md)
