@@ -37,11 +37,11 @@ $$
 **Calculating Partial derivatives:**
 
 $$
-\text{dk} \leftarrow \frac{\partial J(k, b)}{\partial{k}} = \sum\limits_{i=0}^{i<n}{[(k \times x_i + b - y_i) \times x_i]}
+\text{dk} \leftarrow \frac{\partial J(k, b)}{\partial k} = \sum_{i=0}^{i<n} [(kx_i + b - y_i) \times x_i]
 $$
 
 $$
-\text{db} \leftarrow \frac{\partial J(k, b)}{\partial{b}} = \sum\limits_{i=0}^{i<n}{(k * x_i + b - y_i)}
+\text{db} \leftarrow \frac{\partial J(k, b)}{\partial b} = \sum_{i=0}^{i<n} (kx_i + b - y_i)
 $$
 
 **Applying Gradient Descent Algorithms:**
