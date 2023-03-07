@@ -133,3 +133,4 @@ probability_model(x_test[:5])
 Congratulations! You have trained a machine learning model using a prebuilt dataset using the [Keras](https://www.tensorflow.org/guide/keras/overview) API.
 
 For more examples of using Keras, check out the [tutorials](https://www.tensorflow.org/tutorials/keras/). To learn more about building models with Keras, read the [guides](https://www.tensorflow.org/guide/keras). If you want learn more about loading and preparing data, see the tutorials on [image data loading](https://www.tensorflow.org/tutorials/load\_data/images) or [CSV data loading](https://www.tensorflow.org/tutorials/load\_data/csv).
+
