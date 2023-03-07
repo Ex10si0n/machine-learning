@@ -41,9 +41,18 @@ No slides are distributed (cuz. I do not regard slides as efficient format to di
   * Importing modules
   * pip: Package manager
   * DS Utilities: Numpy
-* Concept of Machine Learning
+* Traditional Machine Learning Algorithms
+  * Supervised Learning
+    * Linear and Polynomial Regression
+    * K Neareast Neighborhood (KNN)
+    * Naive Bayes Classifier
+    * Neural Networks
+  * Unsupervised Learning
+    * K-means Clustering
+* Concept of Deep Learning
   * Implementation of Neural Networks from scratch
   * Introduction to Tensorflow / PyTorch
   * CNN: NN with image processing
   * Introduction to Data Augmentation
   * Brief introduction to miscellaneous Neural Networks
+
